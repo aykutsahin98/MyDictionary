@@ -1,0 +1,13 @@
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Aykut\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
